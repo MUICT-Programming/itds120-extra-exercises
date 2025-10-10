@@ -2,7 +2,7 @@
 
 Credits: Akara Supratak (email: [akara.sup@mahidol.ac.th](mailto:akara.sup@mahidol.ac.th), github: [@akaraspt](https://github.com/akaraspt))
 
-Assume `import pandas as pd` and `df` is a DataFrame loaded from `data.csv` [[download](https://github.com/MUICT-Programming/itcs113-extra-exercises/blob/main/)].
+Assume `import pandas as pd` and `df` is a DataFrame loaded from `data.csv` [[download](https://raw.githubusercontent.com/MUICT-Programming/itds120-extra-exercises/refs/heads/main/data.csv)].
 
 Typical columns you may see in the tasks below: `['Name','Sex','Age','Pclass','Fare','Embarked']`. Adjust if your file differs.
 
@@ -138,7 +138,7 @@ tail5 = df.sort_values(___________)[___________].tail(___________)
 
 ## Short Coding Tasks
 
-The `data.csv` file can be downloaded from here [[download](https://github.com/MUICT-Programming/itcs113-extra-exercises/blob/main/)].
+The `data.csv` file can be downloaded from here [[download](https://raw.githubusercontent.com/MUICT-Programming/itds120-extra-exercises/refs/heads/main/data.csv)].
 
 ### Basic column selection and preview
 
